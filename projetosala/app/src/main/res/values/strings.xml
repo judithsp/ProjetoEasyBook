@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoSala</string>
+    <string name="Login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="empresas">Empresas</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="logo_da_empresa">logo da empresa</string>
+    <string name="salas">Salas</string>
+</resources>
